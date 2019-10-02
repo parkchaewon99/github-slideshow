@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to your second slide!"
 ---
-Your test
+chaewon is very tall
 Use the left arrow to go back!
